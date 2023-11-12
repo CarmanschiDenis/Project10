@@ -1,0 +1,6 @@
+{
+    'Triangle': 3,
+    'Square': 4,
+    'Hexagon': 6
+
+}
